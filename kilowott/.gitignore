@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+/tmp/
+backend/.env
+backend/crm.db
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# OS
+.DS_Store
